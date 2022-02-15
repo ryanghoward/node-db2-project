@@ -1,11 +1,5 @@
-const getAll = () => {
-  // DO YOUR MAGIC
-}
+const getAll = () => {};
 
-const getById = () => {
-  // DO YOUR MAGIC
-}
+const getById = () => {};
 
-const create = () => {
-  // DO YOUR MAGIC
-}
+const create = () => {};
